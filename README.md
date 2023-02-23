@@ -8,5 +8,5 @@ Moqta purva direktoriq
 ### header 3
 #### header 4
 ##### header 5
-*bold
-_italic
+**bold**
+__italic__
